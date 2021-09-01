@@ -3,6 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/_jason_dsouza" target="blank"><img src="https://img.shields.io/twitter/follow/_jason_dsouza?logo=twitter&style=for-the-badge" alt="_jason_dsouza" /></a> </p>
 
+- 🔭 I’m currently working on learning **DSA in Java..**
+
+- 🌱 I’m looking for **help in finding a job.**
+
+- 👯 I’m currently learning **MERN stack**
+
+- 🤝I’m looking to **collaborate with anyone interested in Web development and DSA in JAVA.**
+
+- 👨‍💻 My site [https://epic-agnesi-cb8d50.netlify.app](https://epic-agnesi-cb8d50.netlify.app)
+
+- 💬 Ask me about **anything within my domain below and if you want to collaborate in contributing to open source.**
+
 - 📫 How to reach me **jasondsouza212@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf](https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf)
@@ -22,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasondsouza212&show_icons=true&locale=en" alt="jasondsouza212" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasondsouza212&" alt="jasondsouza212" /></p>
-

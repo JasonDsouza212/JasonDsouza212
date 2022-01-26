@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jasondsouza212@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf](https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf)
+- 📄 Know about my experie.nces [https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf](https://github.com/JasonDsouza212/My-Resume/blob/main/MYRESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -11,7 +11,7 @@
 
 - 🤝I’m looking to **collaborate with anyone interested in Web development and DSA in JAVA.**
 
-- 👨‍💻 My site [https://epic-agnesi-cb8d50.netlify.app](https://epic-agnesi-cb8d50.netlify.app)
+- 👨‍💻 My site [https://jasondsouza.netlify.app/]
 
 - 💬 Ask me about **anything within my domain below and if you want to collaborate in contributing to open source.**
 

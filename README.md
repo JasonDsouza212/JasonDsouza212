@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Getting a Job in DevOps**
 
+- 👯 I’m looking to collaborate on **DevOps**
+
 - 👨‍💻 All of my projects are available at [https://github.com/JasonDsouza212?tab=repositories](https://github.com/JasonDsouza212?tab=repositories)
 
 - 📝 I regularly write articles on [DevOps and DSA](DevOps and DSA)
@@ -17,12 +19,13 @@
 
 - 📫 How to reach me **jasondsouza212@gmail.com**
 
-- 📄 Know about my experiences [Website]([Website](https://github.com/JasonDsouza212/JasonResume/blob/main/JASON_DSOUZA_side_name.pdf))
+- 📄 Know about my experiences [https://jasondsouza212.github.io/My-Portfolio/](https://jasondsouza212.github.io/My-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_jason_dsouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jason_dsouza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jason-dsouza-130b421ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-dsouza-130b421ba" height="30" width="40" /></a>
+<a href="https://hashnode.com/@jason212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jason212" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jason212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jason212" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jasondsouza212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jasondsouza212" height="30" width="40" /></a>
 </p>

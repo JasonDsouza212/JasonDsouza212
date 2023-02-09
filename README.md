@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Getting a Job in DevOps**
+- 🌱 I’m currently looking to **land a Job in DevOps**
 
 - 👯 I’m looking to collaborate on **DevOps**
 

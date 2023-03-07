@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JasonDsouza212?tab=repositories](https://github.com/JasonDsouza212?tab=repositories)
 
-- 📝 I regularly write articles on [DevOps and DSA](DevOps and DSA)
+- 📝 I regularly write articles on Devops and DSA
 
 - 💬 Ask me about **Linux,Git,Docker,Docker-Compose,kubernetes,Jenkins,AWS,Terraform,Ansible,Prometheus,DSA and Leetcode**
 

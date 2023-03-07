@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Dsouza</h1>
 <h3 align="center">An individual who is passionate about technology and wants to make a career out of it || I'm currently looking for a DevOps job || Leetcode:250+ Problems Solved || MERN Stack || Self-taught</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasondsouza212&label=Profile%20views&color=0e75b6&style=flat" alt="jasondsouza212" /> </p>
-
 <p align="left"> <a href="https://twitter.com/_jason_dsouza" target="blank"><img src="https://img.shields.io/twitter/follow/_jason_dsouza?logo=twitter&style=for-the-badge" alt="_jason_dsouza" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps**

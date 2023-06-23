@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/_jason_dsouza" target="blank"><img src="https://img.shields.io/twitter/follow/_jason_dsouza?logo=twitter&style=for-the-badge" alt="_jason_dsouza" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **REDUX | FULL STACK [MERN] | DEVOPS**
 
-- 🌱 I’m currently looking to **land a Job in DevOps**
+- 🌱 I’m currently looking to **land a Job as a FULL STACK DEVELOPER [MERN]**
 
-- 👯 I’m looking to collaborate on **DevOps**
+- 👯 I’m looking to collaborate on **REDUX | FULL STACK [MERN] | DEVOPS**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/JasonDsouza212?tab=repositories)
-
-- 📝 I regularly write articles on Devops and DSA
 
 - 💬 Ask me about **Linux,Git,Docker,Docker-Compose,kubernetes,Jenkins,AWS,Terraform,Ansible,Prometheus,DSA and Leetcode**
 

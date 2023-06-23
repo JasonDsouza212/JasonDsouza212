@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JasonDsouza212?tab=repositories](https://github.com/JasonDsouza212?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/JasonDsouza212?tab=repositories)
 
 - 📝 I regularly write articles on Devops and DSA
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jasondsouza212@gmail.com**
 
-- 📄 Know about my experiences [https://jasondsouza212.github.io/My-Portfolio/](https://jasondsouza212.github.io/My-Portfolio/)
+- 📄 Know about my experiences [Portfolio](https://jasondsouza212.github.io/My-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
